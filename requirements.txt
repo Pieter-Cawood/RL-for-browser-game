@@ -1,0 +1,12 @@
+numpy
+opencv-python==4.12.0.88
+playwright==1.54.0
+python-dotenv==1.1.1
+
+torch==2.8.0
+plotly==6.3.0
+tqdm==4.67.1
+atari-py==0.2.9
+
+matplotlib==3.8.4
+tensorboard==2.20.0
