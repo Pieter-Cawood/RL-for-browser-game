@@ -1,4 +1,4 @@
-# Reinforcement Learning to play Red Bull Stalen Ros Browser Game
+# Reinforcement Learning to play a browser game
 **Deep Q Reinforcement Learning (Rainbow) + Playwright browser automation**  
 → trains an agent to play and win the official Red Bull Stalen Ros browser game.  
 
